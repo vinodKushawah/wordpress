@@ -8,3 +8,6 @@ git commit -m "first commit"
 git remote add origin https://github.com/vinod-kushwah/wordpress.git
 git push -u origin master
 
+
+git clone https://github.com/vinod-kushwah/wordpress.git
+git pull origin master
